@@ -1,0 +1,27 @@
+com/yash/spacexcrew/adapters/CrewMemberAdapter.java
+ com.yash.spacexcrew.adapters.CrewMemberAdapter
+ com.yash.spacexcrew.adapters.CrewMemberAdapter$CrewMemberViewHolder
+ com.yash.spacexcrew.adapters.CrewMemberAdapter$CrewMemberWikipediaClickHandler
+com/yash/spacexcrew/database/CrewMemberDatabase.java
+ com.yash.spacexcrew.database.CrewMemberDatabase
+com/yash/spacexcrew/CrewMemberModel.java
+ com.yash.spacexcrew.CrewMemberModel
+com/yash/spacexcrew/MainActivity.java
+ com.yash.spacexcrew.MainActivity
+ com.yash.spacexcrew.MainActivity$1
+ com.yash.spacexcrew.MainActivity$2
+ com.yash.spacexcrew.MainActivity$3
+com/yash/spacexcrew/model/CrewMemberViewModel.java
+ com.yash.spacexcrew.model.CrewMemberViewModel
+com/yash/spacexcrew/database/CrewMemberDAO.java
+ com.yash.spacexcrew.database.CrewMemberDAO
+com/yash/spacexcrew/BuildConfig.java
+ com.yash.spacexcrew.BuildConfig
+com/yash/spacexcrew/CrewMemberRepository.java
+ com.yash.spacexcrew.CrewMemberRepository
+ com.yash.spacexcrew.CrewMemberRepository$deleteAsyncTask
+ com.yash.spacexcrew.CrewMemberRepository$insertAsyncTask
+com/yash/spacexcrew/database/CrewMember.java
+ com.yash.spacexcrew.database.CrewMember
+com/yash/spacexcrew/RequestQueueSingleton.java
+ com.yash.spacexcrew.RequestQueueSingleton
